@@ -28,8 +28,9 @@ The architecture follows a decoupled, microservices-based defense-in-depth model
 ## 📷 Architecture Diagram
 
 
-- <img width="1024" height="559" alt="ARCH" src="https://github.com/user-attachments/assets/dfc10a32-dc4f-4e1a-ad4b-b1ffc86f4388" />
-- <img width="1024" height="559" alt="ARCH2" src="https://github.com/user-attachments/assets/9802ec02-5d58-4623-bd87-8e4368c73e5b" />
+<img width="1024" height="559" alt="ARCH" src="https://github.com/user-attachments/assets/dfc10a32-dc4f-4e1a-ad4b-b1ffc86f4388" />
+
+<img width="1024" height="559" alt="ARCH2" src="https://github.com/user-attachments/assets/9802ec02-5d58-4623-bd87-8e4368c73e5b" />
 
 ---
 
@@ -41,9 +42,9 @@ The architecture follows a decoupled, microservices-based defense-in-depth model
 
 Rather than hardcoding static responses, ANAOS exposes stateful alerts through a structured REST API endpoint:
 
-```http
 
-- <img width="1024" height="559" alt="B" src="https://github.com/user-attachments/assets/5251da19-2060-4dfa-82d2-69fef97f0ce0" />
+``http
+<img width="1024" height="559" alt="B" src="https://github.com/user-attachments/assets/5251da19-2060-4dfa-82d2-69fef97f0ce0" />
 
 
 
