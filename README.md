@@ -28,8 +28,8 @@ The architecture follows a decoupled, microservices-based defense-in-depth model
 ## 📷 Architecture Diagram
 
 
-- `ARCH.jpg`
-- `ARCH2.jpg`
+- `<img width="1024" height="559" alt="ARCH" src="https://github.com/user-attachments/assets/dfc10a32-dc4f-4e1a-ad4b-b1ffc86f4388" />`
+- '<img width="1024" height="559" alt="ARCH2" src="https://github.com/user-attachments/assets/9802ec02-5d58-4623-bd87-8e4368c73e5b" />'
 
 ---
 
