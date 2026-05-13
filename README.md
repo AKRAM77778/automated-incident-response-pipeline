@@ -43,6 +43,7 @@ Rather than hardcoding static responses, ANAOS exposes stateful alerts through a
 
 ```http
 
-- <img width="1711" height="897" alt="B" src="https://github.com/user-attachments/assets/5b6f2884-5223-4f17-9059-87fccc2eba70" />
+- <img width="1024" height="559" alt="B" src="https://github.com/user-attachments/assets/5251da19-2060-4dfa-82d2-69fef97f0ce0" />
+
 
 
