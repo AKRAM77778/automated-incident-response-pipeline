@@ -24,3 +24,22 @@ The architecture follows a decoupled, microservices-based defense-in-depth model
 - **Ansible** dynamically modifies the pfSense firewall routing tables and aliases to immediately isolate malicious hosts at Layer 3.
 
 ---
+
+## 📷 Architecture Diagram
+
+
+- `ARCH.jpg`
+- `ARCH2.jpg`
+
+---
+
+# 🛠️ Technical Deep Dive
+
+---
+
+## 1️⃣ Analytical Thresholding (ANAOS API)
+
+Rather than hardcoding static responses, ANAOS exposes stateful alerts through a structured REST API endpoint:
+
+```http
+/api/alerts
