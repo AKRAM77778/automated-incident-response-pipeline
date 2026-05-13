@@ -43,7 +43,6 @@ The architecture follows a decoupled, microservices-based defense-in-depth model
 Rather than hardcoding static responses, ANAOS exposes stateful alerts through a structured REST API endpoint:
 
 
-``http
 <img width="1024" height="559" alt="B" src="https://github.com/user-attachments/assets/5251da19-2060-4dfa-82d2-69fef97f0ce0" />
 
 
